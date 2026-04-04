@@ -10,7 +10,7 @@ CLI app to track expenses through a JSON file.
 Clone this repository:
 
 ```bash
-git clone https://github.com/simone-gasparini-94/expense-tracker.git
+git clone https://github.com/s-gas/expense-tracker.git
 ```
 
 Change to the project directory:
